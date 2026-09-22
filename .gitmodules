@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/yannic-chen/yannic-chen.r-universe.dev
 	branch = HEAD
+[submodule "EpitoScope"]
+	path = EpitoScope
+	url = https://github.com/yannic-chen/EpitoScope
